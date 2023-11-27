@@ -9,7 +9,7 @@ sidebar:
 
     # Profile information
     name: Stanislava Kaukova
-    tagline: Java Developer
+    tagline: Software Engineer
 #    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -58,7 +58,7 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Java Developer
+      - role: Software Engineer
         time: Oct 2019 - Present
         company: Tarya Fintech Bulgaria
         details: |
@@ -75,7 +75,7 @@ experiences:
             - Docker
             - Bitbucket
             - Jira
-      - role: Java Developer
+      - role: Software Engineer
         time: Sept 2016 - 2019
         company: Clouway Ltd, Veliko Tarnovo
         details: |
