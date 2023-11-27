@@ -62,13 +62,19 @@ experiences:
         time: Oct 2019 - Present
         company: Tarya Fintech Bulgaria
         details: |
-          Collaborated with cross-functional teams of computer specialists to create optimal software solutions.
-          Guide and support new team members, facilitating their seamless integration into the project.
+          Analyzing requirements, developing, and testing features to seamlessly align with customer needs.
+          Skilled in debugging and resolving bugs, ensuring the integrity of the overall system,  and proficient in the integration with external systems using REST and SOAP technologies. 
+          Experienced in guiding and supporting new team members, fostering a collaborative and productive work environment.
+            - Java 8/Java 11
             - Spring Boot
+            - MongoDB
+            - MySQL
             - RabbitMQ
             - Maven
             - Microservices
             - Docker
+            - Bitbucket
+            - Jira
       - role: Java Developer
         time: Sept 2016 - 2019
         company: Clouway Ltd, Veliko Tarnovo
@@ -139,11 +145,19 @@ projects:
     title: Projects
     intro: >
     assignments:
-      - title: POLITIS
+      - title: Loan Management
+        link: "https://www.taryafintech.com/private-business-loans/"
+        tagline: "Loan Management System"
+
+      - title: Risk Assessment
+        link: "https://www.taryafintech.com/risk-management/"
+        tagline: "Credit Risk Profile"
+
+      - title: Politis
         link: "https://www.clouway.com/politis"
         tagline: "Commerce and Inventory Management System. Products, Orders, Customers and Insigns."
 
-      - title: TELCONG BSS
+      - title: TelcoNG BSS
         link: "https://www.clouway.com/telcong/bss"
         tagline: "Business Support System with CRM, billing, and self-service domains."
 
