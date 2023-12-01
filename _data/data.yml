@@ -65,22 +65,26 @@ experiences:
         company: Tarya Fintech Bulgaria
         responsibilities: Responsibilities
         details: |
-          LLM System: Designed and implemented a Lifecycle Management system, optimizing workflows and enhancing collaboration among team members.
-          Utilized the AWS platform for efficient deployment and scalability.
-          Deployed applications on Kubernetes using Argo for streamlined orchestration.
-          Implemented message-driven communication using Kafka, enhancing the efficiency and reliability of the systems.
-          Collaborated with cross-functional teams, guiding and supporting new team members to foster a collaborative and productive work environment.
+          - Analyzing requirements, developing, and testing features to seamlessly align with customer needs.
+          - Collaborated with cross-functional teams, guiding and supporting new team members to foster a collaborative and productive work environment.
+          - Deployed applications on Kubernetes using Argo for streamlined orchestration.
+          - 
+          -
+          -
+          - Debugging and resolving issues, ensuring the integrity of the overall system
         skills: Technical Skills
         technicalSkills: |
-          - Languages: Java 8, Java 11
-          - Frameworks: Spring Boot
-          - Databases: MongoDB, MySQL
-          - Messaging Systems: Kafka, RabbitMQ
-          - Build Tool: Maven, Gradle
-          - Containerization: Docker, Kubernetes (Argo)
-          - Version Control: Git, Bitbucket
-          - Project Management: Jira
+          - Java 8, Java 11
+          - Spring Boot
+          - MongoDB, MySQL
+          - Kafka, RabbitMQ
+          - Maven, Gradle
+          - Docker, Kubernetes (Argo)
+          - Git, Bitbucket
+          - Jira
           - Microservices
+          - AWS
+          - CI/CD pipelines with Jenkins for automated integration, deployment, and continuous delivery
       - role:  Full Stack Developer
         time: March 2016 - Oct 2019
         company: Clouway Ltd, Veliko Tarnovo
@@ -92,11 +96,11 @@ experiences:
           Provided guidance and support to new team members, facilitating their seamless integration into the project.
         skills: Technical Skills
         technicalSkills: |
-          - Languages: Java, Kotlin
-          - Frameworks: SparkJava, ReactJS
-          - GCP (GAE, GKE, Google Pub/Sub, BigQuery, Firestore, Firebase)
-          - Build Tool: Gradle
-          - Version Control: Git, Github
+          - Java, Kotlin
+          - SparkJava, ReactJS
+          - Google Cloud Platform(GAE, GKE, Google Pub/Sub, BigQuery, Firestore, Firebase)
+          - Gradle
+          - Git, Github
           - Microservices
           - Event Driven Design
           - TDD
@@ -165,6 +169,10 @@ projects:
       - title: Risk Assessment
         link: "https://www.taryafintech.com/risk-management/"
         tagline: "Credit Risk Profile"
+
+      - title: Loan Request Management
+        link: "https://www.taryafintech.com/private-business-loans/"
+        tagline: "Loan Management System"
 
       - title: Politis
         link: "https://www.clouway.com/politis"
