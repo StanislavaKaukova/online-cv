@@ -30,6 +30,8 @@ sidebar:
       info:
         - idiom: English
           level: Professional
+        - idiom: Bulgarian
+          level: Native
 
 #    interests:
 #      title: Interests
@@ -61,49 +63,54 @@ experiences:
       - role: Senior Software Engineer
         time: Oct 2019 - Present
         company: Tarya Fintech Bulgaria
+        responsibilities: Responsibilities
         details: |
-          Worked on three major projects:
-           - P2P Platform: TODO
-           - Risk Assessment: TODO
-           - LLM System: Designed and implemented a Lifecycle Management system, optimizing workflows and enhancing collaboration among team members.
+          LLM System: Designed and implemented a Lifecycle Management system, optimizing workflows and enhancing collaboration among team members.
           Utilized the AWS platform for efficient deployment and scalability.
           Deployed applications on Kubernetes using Argo for streamlined orchestration.
           Implemented message-driven communication using Kafka, enhancing the efficiency and reliability of the systems.
           Collaborated with cross-functional teams, guiding and supporting new team members to foster a collaborative and productive work environment.
         skills: Technical Skills
         technicalSkills: |
-          - Java 8, Java 11
-          - Spring Boot
-          - MongoDB, MySQL
-          - Kafka, RabbitMQ
-          - Maven
-          - Docker, Kubernetes (Argo)
-          - Bitbucket
-          - Jira
+          - Languages: Java 8, Java 11
+          - Frameworks: Spring Boot
+          - Databases: MongoDB, MySQL
+          - Messaging Systems: Kafka, RabbitMQ
+          - Build Tool: Maven, Gradle
+          - Containerization: Docker, Kubernetes (Argo)
+          - Version Control: Git, Bitbucket
+          - Project Management: Jira
+          - Microservices
       - role:  Full Stack Developer
         time: March 2016 - Oct 2019
         company: Clouway Ltd, Veliko Tarnovo
+        responsibilities: Responsibilities
         details: |
           Performed analysis of customer requirements, designing, developing, and testing software solutions to effectively meet their needs.
           Collaborated with cross-functional teams of computer specialists to create optimal software solutions.
           Diligently conducted software maintenance and testing to guarantee the continuous normal functioning of programs.
           Provided guidance and support to new team members, facilitating their seamless integration into the project.
-            - Java,Kotlin
-            - ReactJS
-            - SparkJava
-            - GCP (GAE, GKE, Google Pub/Sub, BigQuery, Firestore, Firebase) 
-            - Gradle
-            - Microservices
-            - Event Sourcing
-            - TDD
+        skills: Technical Skills
+        technicalSkills: |
+          - Languages: Java, Kotlin
+          - Frameworks: SparkJava, ReactJS
+          - GCP (GAE, GKE, Google Pub/Sub, BigQuery, Firestore, Firebase)
+          - Build Tool: Gradle
+          - Version Control: Git, Github
+          - Microservices
+          - Event Driven Design
+          - TDD
       - role: Trainee at Clouway Ltd
         time: Sept 2015 - March 2016
+        responsibilities: Responsibilities
         company: Clouway Ltd, Veliko Tarnovo
         details: |
             - Learned frontend and backend development with Angular and Java.
             - Gained additional knowledge about databases.
-            - Learned testing & test automation.
-            - Learned build tools & build automation like Webpack, Maven and Gradle.
+            - Learned testing & test automation. 
+            - Learned TDD
+            - Learned build tools & build automation like Maven and Gradle.
+            - Learned about Version Control - Git
             - Learned how the code-review process works using Github PR.
             - Learned how to work in a small team using Scrum methodology.
 
