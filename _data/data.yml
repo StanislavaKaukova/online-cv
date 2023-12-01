@@ -29,7 +29,7 @@ sidebar:
       title: Languages
       info:
         - idiom: English
-          level: Intermediate
+          level: Professional
 
 #    interests:
 #      title: Interests
@@ -76,7 +76,7 @@ experiences:
             - Bitbucket
             - Jira
       - role: Software Engineer
-        time: Sept 2016 - 2019
+        time: March 2016 - Oct 2019
         company: Clouway Ltd, Veliko Tarnovo
         details: |
           Performed analysis of customer requirements, designing, developing, and testing software solutions to effectively meet their needs.
