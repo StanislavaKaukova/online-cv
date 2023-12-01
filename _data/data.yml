@@ -62,9 +62,14 @@ experiences:
         time: Oct 2019 - Present
         company: Tarya Fintech Bulgaria
         details: |
-          Analyzing requirements, developing, and testing features to seamlessly align with customer needs.
-          Skilled in debugging and resolving bugs, ensuring the integrity of the overall system,  and proficient in the integration with external systems using REST and SOAP technologies. 
-          Experienced in guiding and supporting new team members, fostering a collaborative and productive work environment.
+          Worked on three major projects:
+           - P2P Platform: TODO
+           - Risk Assessment: TODO
+           - LLM System: Designed and implemented a Lifecycle Management system, optimizing workflows and enhancing collaboration among team members.
+          Utilized the AWS platform for efficient deployment and scalability.
+          Deployed applications on Kubernetes using Argo for streamlined orchestration.
+          Implemented message-driven communication using Kafka, enhancing the efficiency and reliability of the systems.
+          Collaborated with cross-functional teams, guiding and supporting new team members to foster a collaborative and productive work environment.
         skills: Technical Skills
         technicalSkills: |
           - Java 8, Java 11
