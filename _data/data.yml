@@ -58,7 +58,7 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Software Engineer
+      - role: Senior Software Engineer
         time: Oct 2019 - Present
         company: Tarya Fintech Bulgaria
         details: |
@@ -75,7 +75,7 @@ experiences:
             - Docker
             - Bitbucket
             - Jira
-      - role: Software Engineer
+      - role:  Full Stack Developer
         time: March 2016 - Oct 2019
         company: Clouway Ltd, Veliko Tarnovo
         details: |
@@ -83,12 +83,14 @@ experiences:
           Collaborated with cross-functional teams of computer specialists to create optimal software solutions.
           Diligently conducted software maintenance and testing to guarantee the continuous normal functioning of programs.
           Provided guidance and support to new team members, facilitating their seamless integration into the project.
-            - React 
-            - Spark
-            - Google App Engine 
+            - Java/Kotlin
+            - ReactJS
+            - SparkJava
+            - GCP (GAE, GKE, Google Pub/Sub, BigQuery, Firestore, Firebase) 
             - Gradle
             - Microservices
             - Event Sourcing
+            - TDD
       - role: Trainee at Clouway Ltd
         time: Sept 2015 - March 2016
         company: Clouway Ltd, Veliko Tarnovo
