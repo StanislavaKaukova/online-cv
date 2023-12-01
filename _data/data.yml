@@ -48,7 +48,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Results-driven Java Developer with 8 years of hands-on experience in implementing and maintaining robust and scalable software solutions.
+      Results-driven Java Developer with 8 years of hands-on experience in implementing and delivering high-quality software solutions.
       Adept at collaborating with cross-functional teams to deliver high-quality solutions on time and within budget.
       Committed to staying current with industry trends and continuously enhancing technical skills
 education:
@@ -65,13 +65,15 @@ experiences:
         company: Tarya Fintech Bulgaria
         responsibilities: Responsibilities
         details: |
-          - Analyzing requirements, developing, and testing features to seamlessly align with customer needs.
-          - Collaborated with cross-functional teams, guiding and supporting new team members to foster a collaborative and productive work environment.
-          - Deployed applications on Kubernetes using Argo for streamlined orchestration.
-          - 
-          -
-          -
+          - Collaborated with cross-functional teams to analyze and define product requirements, ensuring alignment with business goals.
+          - Mentored junior engineers, fostering a culture of continuous learning and skill development within the team.
           - Debugging and resolving issues, ensuring the integrity of the overall system
+          - Was responsible for the development of Customer Engagement Platform
+          - Collaborated on the design and implementation of a Risk Assessment Module.  
+            Implemented a flexible and dynamic system, capable of executing various models based on predefined conditions. 
+            This design approach enhanced adaptability and responsiveness to changing risk evaluation requirements.
+          -
+          -
         skills: Technical Skills
         technicalSkills: |
           - Java 8, Java 11
@@ -79,7 +81,7 @@ experiences:
           - MongoDB, MySQL
           - Kafka, RabbitMQ
           - Maven, Gradle
-          - Docker, Kubernetes (Argo)
+          - Docker containers, Kubernetes (Argo)
           - Git, Bitbucket
           - Jira
           - Microservices
