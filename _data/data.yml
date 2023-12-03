@@ -23,7 +23,7 @@ sidebar:
     bitbucket:
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf:
+    pdf: https://stanislavakaukova.github.io/online-cv/skaukova_cv.pdf
 
     languages:
       title: Languages
